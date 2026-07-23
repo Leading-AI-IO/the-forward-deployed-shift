@@ -66,7 +66,7 @@ This book is written for three kinds of people.
 
 * Third, **the executive or manager who has been told to "do something with AI" but does not know what to do.** This book shows, with primary data, why 95% fail — and what the remaining 5% are doing.
 
-The map of this book is as follows. First, we look at why 95% of AI dies in the field (Chapter 1). Next, we dissect the structure by which "building," just upstream of that, was industrialized (Chapter 2). Then we show that the work of crossing the valley — outcome deployment — was already invented twenty years ago at Palantir (Chapter 3), and we argue that its core lies in discovery, a step that cannot be synthesized (Chapter 4, the heart of this book). We then proceed to the conditions under which it becomes an asset rather than degenerating into contract work (Chapter 5), the methodology of practice (Chapter 6, the heart of this book), and the empirical evidence from existing businesses (Chapter 7).
+The map of this book is as follows. First, we look at why 95% of AI dies in the field (Chapter 1). Next, we dissect the structure by which "building," just upstream of that, was industrialized (Chapter 2). Then we show that the work of crossing the valley — outcome deployment — was already invented twenty years ago at Palantir (Chapter 3), and we argue that its core lies in discovery, a step that cannot be synthesized (Chapter 4, the heart of this book). We then proceed to the conditions under which it becomes an asset rather than degenerating into contract work (Chapter 5), the methodology of practice (Chapter 6, the heart of this book), and the empirical evidence from existing businesses (Chapter 7). Finally, we follow the record of the three months after this book was published, during which every layer of the industry came down, in turn, to the delivering side (Chapter 8).
 
 Why this scarcity called "outcome deployment" emerges, where it resides, and how one can come to possess it — we will unravel it in order, from primary data and from the structure of the field.
 
@@ -310,6 +310,8 @@ The answer is as we saw in Chapters 1 and 2. "Building" with AI was industrializ
 What is interesting is that the three difficulties Palantir's customers once faced — cannot state requirements explicitly, cannot share data, workflow in constant flux — are now being reproduced in the AI adoption of every company. A company trying to introduce AI agents cannot precisely articulate what should be automated (cannot state requirements explicitly). It cannot expose confidential data or personal information to model training (cannot share data). And because AI's capabilities evolve every few months, the optimal way to use it constantly changes (workflow in constant flux). The special difficulty that only intelligence agencies faced twenty years ago has now become the standard difficulty of every company introducing AI. That is exactly why Palantir's solution — outcome deployment — is being rediscovered across the entire industry.
 
 In 2026, a16z called the spread of this phenomenon across the entire industry "The Palantirization of Everything." OpenAI's Deployment Company and Anthropic's joint venture are re-implementations, in the AI era, of the structure Palantir solved twenty years ago. The only difference is that, whereas the customers back then were intelligence agencies, now every company in every industry has become that customer.
+
+One further note: this chapter's claim that Palantir built the prototype is neither a metaphor nor a retrospective reading of history. In July 2026, it would be corroborated by first-hand evidence — a roster of named people (Chapter 8).
 
 ### References
 
@@ -696,6 +698,9 @@ Let me organize the common pattern of outcome deployment that can be extracted f
 
 **A discontinuous outcome is born not from the smartness of the model, but from the outcome deployment that stitches it into the front line of existing operations.** Even using the same general-purpose model, only the 5% that could be fit to the field produce outcomes, and the 95% that merely handed it out die in the valley of death. What makes the difference is not the model. It is outcome deployment.
 
+This is the structure the book described as of May 2026.
+
+In the next chapter, we follow what happened in the three months that came after. Whether that structure was correct was answered not by my argument, but by the movement of the industry itself.
 ### References
 
 1. John Deere, "Deere Customers Use See & Spray Technology Across 5 Million Acres in 2025" (official)
@@ -707,11 +712,178 @@ Let me organize the common pattern of outcome deployment that can be extracted f
 
 ---
 
+# Chapter 8: Everyone Who Builds Came Down — June–July 2026, When the Layers Filled Vertically
+
+This book opened in May 2026.<br/>
+That single week when Anthropic and OpenAI each stood up an organization on the "delivering" side.
+
+But that was only the beginning.<br/>
+In the three months since this book described that structure, events moved further.<br/>
+And the way they moved has, unintentionally, tested the book's own thesis.<br/>
+This chapter is the record of those three months.
+
+## June 30 — AWS Reached Inside Its Partners
+
+On June 30, 2026, Amazon Web Services moved.
+
+It announced **$1 billion** for a dedicated Forward Deployed Engineering organization.<br/>
+Thousands of FDEs, deployed as small pods of five or six embedded inside customer companies.<br/>
+It is led by Francessca Vasquez, VP of Frontier AI.<br/>
+AWS stated explicitly that the organization would do more than build and maintain requested systems.
+
+Judged by the dollar figure alone, this looks like a large cloud vendor reinforcing its services arm.<br/>
+But the second initiative AWS announced the same day matters far more.
+
+**Partner-Led Forward Deployed Engineering.**<br/>
+A plan to build AWS-credentialed FDE teams **inside** consulting partner firms.<br/>
+AWS framed it as neither a certification nor a training program,<br/>
+but as a durable, embedded delivery capability placed inside the consulting firms customers already rely on —<br/>
+the same methodology, the same production bar, operating at the same velocity.
+
+Why go that far?<br/>
+AWS gave the reason itself: **demand for production-grade agentic systems had outpaced the delivery capacity of any single organization.**
+
+The 95% from Chapter 1, restated from the supply side, is a statement that the total capacity to deliver is insufficient.<br/>
+AWS's decision means it concluded that its own hiring could not close that gap.<br/>
+Outcome deployment has become a scarce capability **contested across the entire industry**.
+
+## July 2 — Microsoft Refused the Name
+
+Forty-eight hours after AWS, Microsoft moved.
+
+It launched **Microsoft Frontier Company**: **$2.5 billion**, roughly **6,000** industry and engineering experts.<br/>
+More than double the AWS commitment, announced two days later.
+
+But the most important thing about the announcement is neither the money nor the headcount.
+
+Judson Althoff, Microsoft's Commercial Business CEO,<br/>
+**explicitly declined to attach the Forward Deployed Engineer label** to the venture,<br/>
+saying it goes beyond what has been called forward-deployed engineering.
+
+Here is the decisive point for this book.
+
+**Microsoft refused the name. But what it did was the same.**<br/>
+Send people inside the customer. Stay accountable until outcomes appear.<br/>
+Structurally identical to Anthropic, to OpenAI, to AWS.
+
+If this were merely a fashionable job title,<br/>
+a company of Microsoft's stature would not need to avoid the name while copying the substance.<br/>
+Declining to participate would always remain an option.
+
+Yet in practice, it had to follow the same structure even while rejecting the label.<br/>
+That fact is the strongest available proof of what Chapters 2 and 3 argued.
+
+**This is not a job-title trend. It is a structure you cannot refuse.**
+
+With a trend, you can choose whether to join.<br/>
+With a structure, you can only comply.<br/>
+The name could be refused; the structure could not. That was Microsoft's July 2.
+
+## July 22 — The Palantir Alumni Appeared as a Roster
+
+Then, on July 22, 2026, a16z moved.
+
+It announced the **65 fellows** selected for the inaugural cohort of its eight-week Forward Deployed Engineer Fellowship.<br/>
+Thousands of applications arrived from around the world.<br/>
+Those selected lead FDE at companies including OpenAI, Mistral, Cognition, HappyRobot, Poetic, and Decagon.
+
+And a16z wrote this in the announcement:
+
+> **Many are Palantir alumni.**
+
+The names given include Barry McCardel of Hex, Kevin Bai at Anthropic,<br/>
+Isa Gomez of OpenAI, Senta Knuth of ElevenLabs, and Vinoo Ganesh of Kepler.<br/>
+All left Palantir, and all now sit on the side that is defining the FDE playbook.
+
+What this means is unambiguous.
+
+The structure "Palantir invented twenty years ago," argued in Chapter 3,<br/>
+was not a metaphor, nor a retrospective reading of history.<br/>
+**It was corroborated by first-hand evidence, as a roster of named people.**
+
+The structure was not independently reinvented.<br/>
+The people who know it in their bodies simply moved.<br/>
+Delta, Echo, and the paving of gravel roads described in Chapter 3<br/>
+were transplanted into the core of the AI industry not through papers or commentary, but **through people**.
+
+And what a16z did is an attempt to **manufacture** that talent.<br/>
+When demand outruns supply, a market first competes to hire.<br/>
+When hiring proves insufficient, it turns to cultivation.<br/>
+Opening a fellowship signals that outcome deployment has entered the phase of being made, not merely recruited.
+
+## The Layers Filled Vertically
+
+Placed in sequence, the three months look like this.
+
+```mermaid
+flowchart TD
+    A["May 2026<br/>The model-building layer<br/>Anthropic / OpenAI"] --> B["June 30<br/>The cloud-building layer ①<br/>AWS $1B<br/>Also built inside partners"]
+    B --> C["July 2<br/>The cloud-building layer ②<br/>Microsoft $2.5B / ~6,000 people<br/>The FDE label refused"]
+    C --> D["July 22<br/>The talent layer itself<br/>a16z inaugural 65<br/>Many are Palantir alumni"]
+    D --> E["Value moved from<br/>being able to build<br/>to turning it into outcomes"]
+    classDef base fill:#2b2b2e,stroke:#555555,color:#e8e6e1
+    classDef acc fill:#4a3f2a,stroke:#c9a961,color:#f0ede6
+    class A,B,C,D base
+    class E acc
+```
+
+The companies that build models came down first.<br/>
+Then the companies that build clouds came down.<br/>
+And finally, the work of manufacturing the practitioners began.
+
+**In three months, the layers filled vertically.**<br/>
+Capital, organizations, and talent are all migrating from the building side to the delivering side.
+
+In the prologue I wrote that the simultaneous moves by Anthropic and OpenAI were no coincidence.<br/>
+Three months on, it turns out they were not merely non-coincidental:<br/>
+they were the first two moves in a process by which every layer of the industry arrives, in turn, at the same conclusion.
+
+## What This Means for Those Working in Japan
+
+Of these three months, which single move matters most for the field in Japan?
+
+I believe it is AWS's Partner-Led FDE.
+
+What that initiative signals is that the capability of outcome deployment<br/>
+is not something to be enclosed within a handful of Silicon Valley firms,<br/>
+but something that **should be built inside consulting firms and development companies**.
+
+Enter the customer's site, understand the operation, carry a working system into production.<br/>
+There is no shortage of companies in Japan that already do this daily.<br/>
+System integrators, contract development firms, in-house IT departments — all of them already stand in the field.<br/>
+They already possess the scarcest resource outcome deployment requires: proximity to the customer's reality.
+
+The question is not whether the capability exists.<br/>
+It is whether that work ends as "build what was asked and deliver it,"<br/>
+or whether each bespoke solution is converted into an asset that compounds into the next engagement.<br/>
+Whether the productization line argued in Chapter 5 is drawn, or not — that alone.
+
+**Standing in the same field, this single fork turns contract work into either disposable labor or compounding capital.**<br/>
+When Palantir turned gravel roads into paved highways, it was standing at exactly this fork.<br/>
+And as of July 2026, Palantir is no longer the only one standing there.
+
+### References
+
+1. CNBC, "AWS puts $1 billion into new AI unit to embed engineers with customers, joining growing wave" (June 30, 2026)
+   <https://www.cnbc.com/2026/06/30/aws-amazon-ai-forward-deployed-engineers.html>
+2. AWS Partner Network Blog, "Introducing Forward Deployed Engineering for Partners: Winning the Future of Enterprise AI" (official, June 30, 2026)
+   <https://aws.amazon.com/blogs/apn/introducing-forward-deployed-engineering-for-partners-winning-the-future-of-enterprise-ai/>
+3. TechCrunch, "Microsoft launches its own AI deployment company with $2.5 billion commitment" (July 2, 2026)
+   <https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/>
+4. a16z, "Meet the a16z Forward Deployed Engineer Fellows" (official, July 22, 2026)
+   <https://www.a16z.news/p/meet-the-a16z-forward-deployed-engineer>
+5. a16z, "Introducing the a16z FDE Fellowship" (official, May 28, 2026)
+   <https://www.a16z.news/p/introducing-the-a16z-fde-fellowship>
+
+<br/>
+
+---
+
 # Epilogue: You Become an Outcome Deployer
 
 Let me gather the argument of this book into a single line.
 
-"Building (BUILD)" with AI was industrialized (Chapter 2). As a result, 95% of AI fails to reach production and dies in the field (Chapter 1). The work of crossing the valley of death — outcome deployment — was invented twenty years ago by Palantir (Chapter 3). Its core lies in discovery, grasping the field's first-hand information that cannot be synthesized (Chapter 4), and productization, returning the bespoke solution to a compounding asset, separates contract work from a business (Chapter 5). Its methodology has already been systematized as D&V (Chapter 6). And the outcome is born, whether new or existing, from the field implementation of the last mile (Chapter 7).
+"Building (BUILD)" with AI was industrialized (Chapter 2). As a result, 95% of AI fails to reach production and dies in the field (Chapter 1). The work of crossing the valley of death — outcome deployment — was invented twenty years ago by Palantir (Chapter 3). Its core lies in discovery, grasping the field's first-hand information that cannot be synthesized (Chapter 4), and productization, returning the bespoke solution to a compounding asset, separates contract work from a business (Chapter 5). Its methodology has already been systematized as D&V (Chapter 6). And the outcome is born, whether new or existing, from the field implementation of the last mile (Chapter 7). And in the three months after this book was published, that structure was tested as every layer of the industry came down, in turn, to the delivering side (Chapter 8).
 
 Value has moved, completely, from "building" to "turning into an outcome."
 
