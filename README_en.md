@@ -23,6 +23,8 @@ This book captures this structural change in one phrase: **"outcome deployment"*
 
 This is an open-source book that connects, with a single line and from primary data, the structure by which "building" with AI was industrialized, the prototype of outcome deployment that Palantir invented twenty years ago, the last scarce resource of first-hand information that cannot be synthesized (discovery), the productization that separates contract work from a business, and the methodology delivered through D&V. Value has moved, completely, from "building" to "turning into an outcome."
 
+**[Updated July 2026]** In the three months since publication, this structure was tested further. On June 30, AWS committed $1 billion, and on July 2, Microsoft committed $2.5 billion, to dedicated deployment organizations. On July 22, a16z announced the inaugural 65 fellows of its FDE program — many of them Palantir alumni. Chapter 8 records these three months.
+
 ---
 
 ## 📄 Document
@@ -44,6 +46,7 @@ This is an open-source book that connects, with a single line and from primary d
 - **Chapter 5:** What Separates Contract Work from Asset-ization — Productization, the dividing point
 - **Chapter 6:** The Methodology of Outcome Deployment — Applying D&V to the field
 - **Chapter 7:** The Discontinuous Growth of Existing Businesses — Outcomes come not from the model but from the last mile
+- **Chapter 8:** Everyone Who Builds Came Down — June–July 2026, when the layers filled vertically
 - **Final Chapter:** You Become an Outcome Deployer
 
 ---
