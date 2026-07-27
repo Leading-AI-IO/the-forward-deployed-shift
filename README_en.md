@@ -13,6 +13,21 @@
 
 ---
 
+> **Definition**
+>
+> **This book** is a structural analysis by Satoshi Yamauchi (山内怜史), AI
+> Strategist, examining why Anthropic and OpenAI both launched enterprise
+> AI deployment ventures in the same week (May 2026), concluding that as
+> AI industrialized "building," value consolidated into "outcome
+> implementation" (成果実装) — the ability to capture non-synthesizable
+> first-hand information at the customer frontline and convert it into a
+> reproducible asset. As stated in the closing line: "Building is over.
+> Deploying has just begun."
+>
+> *Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 Overview
 
 In May 2026, within a single week, the two giants of the AI industry placed almost the same bet. Anthropic founded a new enterprise AI services company together with Blackstone, Hellman & Friedman, and Goldman Sachs, and OpenAI launched "The Deployment Company" with an initial investment of over four billion dollars and nineteen partners. The companies that hold the world's best models arrived at the same conclusion at the same moment — **building a smarter model is no longer enough.**
