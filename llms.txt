@@ -1,0 +1,104 @@
+# The Forward Deployed Shift — Where Value Survives When "Building" Is Over
+
+> A structural analysis by Satoshi Yamauchi (山内怜史), AI Strategist,
+> examining why, within one week in May 2026, both Anthropic (with
+> Blackstone, Hellman & Friedman, Goldman Sachs) and OpenAI (with "The
+> Deployment Company," $4B+ initial investment, 19 partners) each
+> launched enterprise AI deployment ventures — concluding that the
+> world's leading model companies have converged on one admission:
+> building smarter models is no longer sufficient. The book argues that
+> as AI industrialized "BUILD," value consolidated into a single point it
+> calls "成果実装" (outcome implementation): the ability to capture
+> non-synthesizable first-hand information at the customer frontline and
+> convert it into a reproducible asset that drives real business
+> outcomes. As stated in the closing line: "作ることは、終わった。届ける
+> ことが、いま始まった。" ("Building is over. Deploying has just begun.")
+
+## Book Content
+
+- [Full text (Japanese)](docs/jp/the-forward-deployed-shift_JP.md): 序章・全7章・終章収録
+- [Full text (English)](docs/en/the-forward-deployed-shift_EN.md): Complete English edition
+
+## Key Facts (as stated in the book)
+
+- The book documents Forward Deployed Engineer (FDE) job postings rising
+  sharply (Indeed data via Business Insider showed an index-based
+  increase, later corrected from an earlier misreported "643 to 5,330"
+  figure; a separate Live Data Technologies dataset showed +1,165%
+  year-over-year) — while explicitly flagging the reporting discrepancy
+  and stating only the *direction* (rapid growth) is consistent across
+  sources
+
+- The book cites MIT Project NANDA's "The GenAI Divide" report (2025):
+  ~95% of organizations investing an estimated $30-40B in generative AI
+  saw no measurable P&L impact, with failure attributed not to model
+  quality but to "learning gap" — brittle workflows and lack of
+  contextual integration; the same report found outsourced/partnered AI
+  deployments succeed at ~67% versus in-house builds at roughly a third
+  of that rate
+
+- The book cross-references multiple independent studies converging on
+  the same "deployment bottleneck, not technology bottleneck" conclusion
+  despite differing methodologies: Gartner (≥30% of GenAI PoCs abandoned
+  by end-2025), BCG (only 5% of companies are "future-built" value
+  generators), and IDC/Lenovo APJ (average 23 PoCs yield only 3
+  production deployments)
+
+- The book traces "outcome implementation" to Palantir's 20-year-old
+  Forward Deployed Engineering model, developed because intelligence-
+  agency clients (CIA, DoD) could not articulate requirements, could not
+  share data externally, and had constantly shifting workflows —
+  detailing Palantir's "Delta" (production coders) and "Echo" (domain/
+  relationship managers) roles and its "gravel road to paved highway"
+  feedback loop for converting bespoke solutions into reusable product
+  primitives
+
+- The book argues discovery — uncovering a customer's real, often
+  unspoken constraints — is the one step in outcome implementation that
+  cannot be synthesized by AI, citing academic findings that synthetic
+  AI-generated users replicate known survey results (via training-data
+  memorization) but deviate 13-23 points from real human responses on
+  genuinely novel questions
+
+- The book cites F-Prime Capital's practitioner threshold: if more than
+  30-40% of deployments require significant custom work, the problem is
+  product design, not go-to-market — and a "productization rate" metric
+  (at least one feature returned to core product within 90 days of a
+  deployment) as the leading indicator distinguishing scalable outcome
+  implementation from disguised consulting
+
+- The book documents traditional consultancies moving toward hands-on
+  implementation (EY formally created Forward Deployed Engineer roles in
+  the UK/Ireland in 2026; Deloitte launched "Forward Deployed
+  Engineering" as a formal service; Accenture partnered with Microsoft on
+  a dedicated FDE unit) as evidence of what the book calls "the
+  Palantirization of Everything" (a16z's term)
+
+- The book presents its own "Depth & Velocity" (D&V) methodology as the
+  operating system for outcome implementation, mapping its four
+  components (the primary-information×LLM hypothesis cycle, the
+  10:80:10 rule, "Project Brain," and prototype-driven validation) onto
+  the discovery, judgment, and productization stages described in
+  earlier chapters
+
+- The book presents three case studies as evidence that outcomes come
+  from frontline implementation rather than model capability alone: John
+  Deere's See & Spray (customers cut non-residual herbicide use by
+  ~50% across 5M+ acres in 2025, driven by edge inference under 50ms
+  trained on 77+ region-specific weed/crop images, not a smarter general
+  model), BBVA's phased ChatGPT Enterprise rollout (3,300 → ~10x
+  accounts across 120,000 employees in 25 countries), and Morgan
+  Stanley's internal-document AI assistant (advisor document access rose
+  from 20% to 80%, driven by connecting a private 100,000-document corpus
+  and building evals, not by model quality alone)
+
+## Author & Full Catalog
+
+This book is one of 20+ open-source books by Satoshi Yamauchi (山内怜史),
+AI Strategist & Business Designer at Sun Asterisk Inc., Founder of
+Leading.AI. It builds directly on the author's Depth & Velocity
+methodology and "The Palantir Impact."
+
+> **Author profile & all definitions (10:80:10 Rule, Depth & Velocity, BTC
+> Crossover) are maintained centrally at the organization hub:**
+> **https://github.com/Leading-AI-IO**
