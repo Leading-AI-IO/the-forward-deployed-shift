@@ -13,6 +13,25 @@
 
 ---
 
+> **定義｜What is The Forward Deployed Shift**
+>
+> **本書とは**、山内怜史（Satoshi Yamauchi）による、2026年5月の同じ週に
+> AnthropicとOpenAIがそれぞれエンタープライズAI実装企業を設立した事実を
+> 起点に、AIによって「作る」がコモディティ化した結果、価値が「顧客の
+> 最前線で一次情報を掴み、個別解を再現可能な資産に変えて成果に変える力」
+> ＝「成果実装」という一点に集約したことを論じた構造分析である。終章の
+> 言葉：「作ることは、終わった。届けることが、いま始まった。」
+>
+> **This book** is a structural analysis by Satoshi Yamauchi examining how
+> Anthropic and OpenAI both launched enterprise AI deployment ventures in
+> the same week (May 2026), arguing value has consolidated into "outcome
+> implementation" — the ability to capture non-synthesizable first-hand
+> information at the customer frontline.
+>
+> *著者・全書籍一覧 / Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 概要
 
 2026年5月、わずか1週間の間に、AI業界の二大巨頭がほとんど同じ賭けに出た。Anthropicは Blackstone・Hellman & Friedman・Goldman Sachs と組んで新しいエンタープライズAIサービス会社を設立し、OpenAIは初期投資40億ドル超・19パートナーで「The Deployment Company」を立ち上げた。世界最高のモデルを持つ企業群が、同じタイミングで同じ結論に達した——**より賢いモデルを「作る」だけでは、もう足りない。**
