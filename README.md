@@ -95,6 +95,7 @@
 | **The Attention Economy Is Over**   | アテンション・エコノミーの終わり。次世代SNSの設計条件。 | [GitHub](https://github.com/Leading-AI-IO/the-attention-economy-is-over)  |
 | **Will AI Break the Planet?**       | 数十兆円のAIインフラ投資と、地球温暖化の「不可逆ライン」 | [GitHub](https://github.com/Leading-AI-IO/will-ai-break-the-planet)  |
 | **Frontier-Grade Open Weights** | フロンティア級のオープンウェイトモデルは、開かれたのか。 | [GitHub](https://github.com/Leading-AI-IO/frontier-grade-open-weights)  |
+| **Earned-ai-model-optionality** | AIモデルは選べる。選べるのは、選べるようにした企業だけだ。 | [GitHub](https://github.com/Leading-AI-IO/earned-ai-model-optionality)  |
 
 ---
 
