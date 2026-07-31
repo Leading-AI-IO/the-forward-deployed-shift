@@ -91,6 +91,7 @@ This book is part of an interconnected ecosystem of open-source projects.
 | **The Attention Economy Is Over**   | The end of the attention economy. A design brief for the next-generation SNS. | [GitHub](https://github.com/Leading-AI-IO/the-attention-economy-is-over)  |
 | **Will AI Break the Planet?**       | The AI infrastructure boom and the race against the climate's point of no return | [GitHub](https://github.com/Leading-AI-IO/will-ai-break-the-planet)  |
 | **Frontier-Grade Open Weights** | They Matched the Frontier. But No One Can Hold Them | [GitHub](https://github.com/Leading-AI-IO/frontier-grade-open-weights)  |
+| **Earned-ai-model-optionality** | AI Models Are Switchable. But Only for Companies That Made Them So | [GitHub](https://github.com/Leading-AI-IO/earned-ai-model-optionality)  |
 
 ---
 
