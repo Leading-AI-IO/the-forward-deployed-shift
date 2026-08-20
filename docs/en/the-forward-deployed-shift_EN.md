@@ -932,14 +932,6 @@ That is where value lies in the age of AI, which the phenomenon called the FDE i
 Building is over. Deploying has just begun.
 
 ---
-
-## 📩 Work Inquiries
-
-I take on new-business partnership / AI-strategy formulation / enterprise AI adoption (outcome deployment) / talks and workshops.
-
-- 🌐 [Leading.AI official site](https://www.leading-ai.io/)
-- 📒 [note: Satoshi Yamauchi](https://note.com/satoshi_yamauchi)
-
 ## Related Projects
 
 | Project | Overview | Link |
